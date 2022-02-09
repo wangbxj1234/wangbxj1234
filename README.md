@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wangbxj1234
-- 👀 I’m interested in 3d point processing.
-- 🌱 I’m currently learning swin transformer on 3d point cloud.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m single but not available.
+- 🌱 I’m currently interested in 3d point cloud classification using transformer as filter.
+- 💞️ I’m looking to collaborate on 3d point cloud classification.
 - 📫 How to reach me ,bwangbo@connect.ust.hk
 
 <!---
