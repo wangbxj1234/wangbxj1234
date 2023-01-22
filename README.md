@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangbxj1234
-- 👀 I’m single but not available.
+- 👀 I have a mothertiger as my girlfriend.
 - 🌱 I’m currently interested in 3d point cloud classification using transformer as filter.
 - 💞️ I’m looking to collaborate on 3d point cloud classification.
 - 📫 How to reach me ,bwangbo@connect.ust.hk
