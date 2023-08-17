@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wangbxj1234
 - 👀 I have a mothertiger as my girlfriend.
-- 🌱 I’m currently interested in 3d point cloud classification using transformer as filter.
-- 💞️ I’m looking to collaborate on 3d point cloud classification.
+- 🌱 I’m currently interested in mobilenet or peft.
+- 💞️ I’m looking to collaborate on mobilenet or peft.
 - 📫 How to reach me ,bwangbo@connect.ust.hk
 
 <!---
