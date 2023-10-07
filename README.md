@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangbxj1234
-- 👀 I have a mothertiger as my girlfriend.
+- 👀 I am a gay.
 - 🌱 I’m currently interested in mobilenet or peft.
 - 💞️ I’m looking to collaborate on mobilenet or peft.
 - 📫 How to reach me ,bwangbo@connect.ust.hk
